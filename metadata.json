@@ -1,0 +1,7 @@
+{
+  "name": "RoofMaxx Lead Commander AI",
+  "description": "Advanced AI-powered lead generation tool for RoofMaxx dealers. Scans Google Maps for commercial commercial roofing opportunities in Pittsburgh, PA, analyzing business data and roof characteristics to export high-quality CSV lead lists.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
